@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping ext="xyz" type="PLAIN_TEXT" />
+      <mapping ext="input" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
