@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="org.projectfloodlight.openflow.types.IPv4Address.withMaskOfLength(cidrMaskLength)" />
+        <added pattern="java.util.Optional.orElse(other)" />
       </blacklist>
     </blacklists>
   </component>
