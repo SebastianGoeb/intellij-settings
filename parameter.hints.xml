@@ -5,6 +5,7 @@
         <added pattern="org.projectfloodlight.openflow.types.IPv4Address.withMaskOfLength(cidrMaskLength)" />
         <added pattern="java.util.Optional.orElse(other)" />
         <added pattern="java.util.function.Function.apply(t)" />
+        <added pattern="net.floodlightcontroller.proactiveloadbalancer.domain.Weighted.Weighted(value,weight)" />
       </blacklist>
     </blacklists>
   </component>
